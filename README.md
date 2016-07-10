@@ -5,9 +5,9 @@
 
 ## Learning Objectives 
 
-* Create strings using type annotation as such:
-* Explain what the above code does in their own words:
-* Explain the difference between type inference and type annotations. 
+* Create strings using type annotation as such
+* Explain what the above code does in their own words
+* Explain the difference between type inference and type annotations
 * Create a variable of type `Int`
 
 ## Strings
