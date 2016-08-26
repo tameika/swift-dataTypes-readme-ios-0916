@@ -91,7 +91,7 @@ You've now learned about two different Swift types!
 
 ## Printing Strings and Ints
 
-Remember when you did string interpolation in the last lesson? When you interpolate strings, you can use both `String` and `Int` types. You pass an `Int` variable or constant into the interpolated string exactly the same way you do a `String`.
+When you interpolate strings, you can use both `String` and `Int` types. You pass an `Int` variable or constant into the interpolated string exactly the same way you do a `String`.
 
 Try adding these two lines to your playground:
 
