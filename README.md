@@ -3,9 +3,14 @@
 ![Albert Einstein](http://i.imgur.com/Pwh4QrR.jpg?1)
 > Life is like riding a bicycle. To keep your balance, you must keep moving. ~[Albert Einstein](https://en.wikipedia.org/wiki/Albert_Einstein)
 
+
+## Overview
+
+We'll cover type annotation and introduce a new type, Integers. 
+
 ## Learning Objectives 
 
-* Create strings using type annotation as such
+* Create strings using type annotation
 * Explain what the above code does in their own words
 * Explain the difference between type inference and type annotations
 * Create a variable of type `Int`
